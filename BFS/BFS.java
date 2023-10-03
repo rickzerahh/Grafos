@@ -1,3 +1,5 @@
+// Este código foi desenvolvido assumindo o grafo sendo uma LinkedList LinkedList
+
 package BFS;
 
 import java.util.LinkedList;
