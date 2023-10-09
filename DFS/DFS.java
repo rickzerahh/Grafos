@@ -1,3 +1,5 @@
+// Este código foi desenvolvido assumindo o grafo sendo uma LinkedList LinkedList
+
 package DFS;
 
 import java.util.LinkedList;
